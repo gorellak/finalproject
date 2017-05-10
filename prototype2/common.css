@@ -1,0 +1,331 @@
+header {
+    padding: 10px;
+    text-align: center;
+    height: 70px;
+    background-color: antiquewhite;
+}
+
+.mainphoto {
+    margin-left: 0;
+    margin-top: -20px;
+    background-image: url(images/picture900a.jpg);
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 250px;
+}
+
+body {
+    margin: auto;
+    background-color: #669966;
+    width: 900px;
+    margin-top: -20px;
+}
+nav {
+    float: center;
+    width: 900px;
+    margin-top: 0px;
+    color: black;
+    font-family: sans-serif;
+    position: relative;
+    }
+
+.selected {
+   background-color: #6B4C20; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 150px;
+    overflow: hidden;
+    background-color: black;
+}
+
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+/* Change the link color to black on hover */
+li a:hover {
+    background-color: #6B4C20;
+}
+
+main {
+    font-family: sans-serif;
+    font-size: 10pt;
+    background-color: antiquewhite;
+    margin: 0px;
+    width: 900px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    padding-left: 35px;
+    margin-bottom: 3px;
+    margin-top: 20px;
+} 
+
+h4 {
+    padding-left: 35px;
+    margin-bottom: 3px;
+    margin-top: 20px;
+} 
+.clear {
+    clear: both;
+}
+
+p {
+    width: 55%;
+    padding-left: 55px;
+    margin-top: 0px;
+}
+
+
+
+footer {
+    color: white;
+    background-color: black;
+    height: auto;
+    padding: 10px 10px 10px 15px;
+    text-align: center;
+}
+
+table {
+    padding-left: 30px;
+/*    border: 1px solid black;*/
+/*    line-height: 2;*/
+}
+table td{
+/*    border: 1px solid black;*/
+    width: 30%;
+    padding-left: 10px;
+    valign="top"
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+/* Event Page */
+
+.pdf {
+    width: 225px;
+    float:right;
+    margin-right: 90px;
+}
+
+
+/* About Page */
+.featured {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    background-image: url(images/featured.jpg);
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 200px;
+}
+
+/* Contact Page */
+
+.right {
+   margin-left: 410px;
+}
+.pic {
+    width: 355px;
+    height: 255px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.picleft {
+    width: 355px;
+    height: 175px;
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    float: left;
+}
+.picright {
+    width: 355px;
+    height: 185px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+
+/*Sponsor*/
+.sponsor {
+    width: 600px;
+    height: 255px;
+    float: left;
+    margin-left: 55px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+/* MOBILE PHONE CODING */
+
+@media (max-width: 500px) {
+    main {
+    width: 300px;
+}
+    header {
+    padding: 0;
+    text-align: center;
+    width: 300px;
+    background-color: antiquewhite;
+}
+
+.mainphoto {
+    margin-left: 0;
+    margin-top: 0;
+    background-image: url(images/picture900a.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 100px;
+}
+
+body {
+    margin: auto;
+    background-color: #669966;
+    width: 300px;
+    margin-top: -20px;
+}
+nav {
+    float: center;
+    width: 300px;
+    margin-top: 0px;
+    color: black;
+    font-family: sans-serif;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: auto;
+    padding-right: auto;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+/* Change the link color to black on hover */
+li a:hover {
+    background-color: #6B4C20;
+}
+
+
+p {
+    width: 80%;
+    padding-left: 35px;
+    margin-top: 0px;
+}
+
+h3 {
+    width: 300px;
+    padding-left: 35px;
+    margin-bottom: 3px;
+    margin-top: 10px;
+    }
+h4 {
+    padding-left: 10px;
+    margin-bottom: 3px;
+    margin-top: 20px;
+} 
+table {
+    padding-left: 0px;
+    border: 0px solid black;
+    width: 100%;
+}
+table td{
+    padding-left: 10px;
+    width: 80px;
+    valign="top";
+}
+    
+footer {
+    color: white;
+    background-color: black;
+    height: auto;
+    padding: 10px 10px 10px 15px;
+    text-align: center;
+}
+    /* About Page */
+.featured {
+    margin-left: 0px;
+    margin-bottom: 20px;
+    background-image: url(images/featured.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+}
+
+/* Event Page */
+
+.pdf {
+    width: 300px;
+    margin-bottom: 15px;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+
+/* Contact Page */
+
+.right {
+   margin-left: 0px;
+}
+.pic {
+        width: 0px;
+    }  
+.picleft {
+    width: 0px;
+}
+.picright {
+    width: 0px;
+   }
+
+    
+/*Sponsor*/
+.sponsor {
+    width: 300px;
+    height: 172px;
+    float: left;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+}
+
+
