@@ -92,6 +92,13 @@ p {
     margin-top: 0px;
 }
 
+ol {
+    list-style-type:square;
+    margin: 0;
+    padding-left: 80px;
+    width: 70%;
+}
+
 
 
 footer {
@@ -117,7 +124,12 @@ table td{
 
 
 #roll {
-    width:60%;
+    width:55%;
+}
+
+.rates {
+    padding-left: 80px;
+    width:50%;
 }
 
 
@@ -276,6 +288,24 @@ table td{
     width: 80px;
     valign="top";
 }
+
+#roll {
+    width:90%;
+}
+
+.rates {
+    padding-left: 50px;
+    width:95%;
+}
+
+
+ol {
+    list-style-type:square;
+    margin: 0;
+    padding-left: 55px;
+    width: 70%;
+}
+
     
 footer {
     color: white;
@@ -291,6 +321,8 @@ footer {
     background-image: url(images/featured.jpg);
     background-repeat: no-repeat;
     width: 300px;
+
+
 }
 
 /* Event Page */
