@@ -18,6 +18,7 @@ body {
     margin: auto;
     background-color: #669966;
     width: 900px;
+    height: 100%;
     margin-top: -20px;
 }
 nav {
@@ -153,7 +154,7 @@ table td{
     margin-bottom: 20px;
     background-image: url(images/featured.jpg);
     background-repeat: no-repeat;
-    width: 900px;
+    width: 300px;
     height: 200px;
 }
 
@@ -164,18 +165,18 @@ table td{
 }
 .pic {
     width: 355px;
-    height: 255px;
     float: right;
     margin-right: 100px;
-    margin-top: 30px;
+    margin-top: 45px;
 }
 .picleft {
     width: 355px;
     height: 175px;
-    margin-left: 35px;
-    margin-top: 10px;
-    margin-bottom: 30px;
     float: left;
+    margin-left: 35px;
+    margin-top: 24px;
+    margin-bottom: 30px;
+    
 }
 .picright {
     width: 355px;
@@ -187,11 +188,10 @@ table td{
 
 /*Sponsor*/
 .sponsor {
-    width: 600px;
-    height: 255px;
+    width: 550px;
     float: left;
     margin-left: 55px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 
@@ -342,19 +342,21 @@ footer {
 }
 .pic {
         width: 0px;
+        height: 0px;
     }  
 .picleft {
     width: 0px;
-}
+    height: 0px;
+    }
 .picright {
     width: 0px;
+    height: 0px;
    }
 
     
 /*Sponsor*/
 .sponsor {
     width: 300px;
-    height: 172px;
     float: left;
     margin-left: 0;
     margin-bottom: 20px;
