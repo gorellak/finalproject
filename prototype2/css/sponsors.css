@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Chippewa Valley Antique Engine and Model Club
+        </title> 
+        <link rel="stylesheet" href="common.css">
+    </head>
+    <body>
+    
+        <header><h2>Chippewa Valley Antique Engine and Model Club</h2></header>
+    
+       <div class=mainphoto></div>
+        
+        <nav>
+            <ul> 
+            <li><a href="index.html">Home</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li class="selected"><a href="sponsors.html">Sponsors</a></li>
+                        </ul>
+        </nav>
+       
+        <main>
+        
+            <h3>Sponsor Information</h3>
+                <p>If you are interested in becoming a sponsor of Pioneer Days  please take a moment to look at the various packages we offer: </p>
+            
+            
+            <img src="images/sponsors.jpg" class="sponsor">
+            
+            <h4 class="clear">Bronze Sponsorship</h4>
+            <ol><li>$25.00 Advertisement Package</li><br>
+                <li>Name placed on sign board for May tractor pull and at Pioneer Days the second weekend in August</li></ol>
+            
+            <br>
+            <h4>Silver Sponsorship</h4> 
+                    <ol>
+                        <li>$50.00 Advertisement Package</li><br> 
+                        <li>Name placed on sign board</li><br>
+                        <li>Sponsorship announcement made at May tractor pull</li><br>
+                        <li>Sponsorship announcements made at Pioneer Days the second weekend in August</li>
+                    </ol>
+                    <br>
+            <h4 class="clear">Gold Sponsorship</h4>
+                    <ol><li>$100.00  Advertisement Package</li><br>
+                        <li>Banner, provided by you, displayed on showgrounds at May tractor pull and at Pioneer Days the second weekend in August</li>
+                    <br>
+                        <li>Sponsorship  announcement made at May tractor pull</li>
+                    <br>
+                        <li>Sponsorship announcement made throughout weekend at Pioneer Days the second weekend in August</li>
+                    <br>
+                        <li>Two free admissions to Pioneer Days</li>
+                    </ol>
+                    <br><br>
+            <h4>Platinum Sponsorship</h4>
+                    <ol><li>$300.00 Advertisement Package</li><br>
+                        <li>Banner, provided by you, displayed on showgrounds at May tractor pull and at Pioneer Days the second weekend in August </li>
+                    <br>
+                        <li>Sponsorship announcement at May tractor pull</li>
+                    <br>
+                        <li>Sponsorship announcement at Pioneer Days the second weekend in August</li>
+                    <br>
+                        <li>Two free admissions to Pioneer Days</li>
+                    <br> <br>
+                        <li>Business name listed as a sponsor on the posters</li>
+            </ol>
+                    <br>
+                    <br>
+                        <p>*Packages may be purchased with a check or traded for services valued at same dollar amount*</p>
+ <br>
+            <h4>Advertising package puchaser information:</h4>
+                <p>
+                    Name: 
+                    <br>
+                    Business Name:
+                    <br>
+                    Address:
+                    <br>
+                    Phone number: 
+                    <br>
+                    Advertisement Package Amount:
+                    <br>
+                    Receipt Required (yes/no): 
+                    <br>
+                    <br>
+                    Please send the above contact information and payment for advertisement package to the following address:
+                    <br><br>
+                    Chippewa Valley Antique Engine and Model Club, Inc.<br>
+                    P.O. Box 8021 <br>
+                    Eau Claire, WI  54702-8021
+                    
+                    <br>
+                    <br>
+                    For additional questions, information, or to make arrangements for banner delivery please contact (715) 834-3977. 
+                </p>
+        </main>
+        
+    <footer>
+       Pioneer Park S4964 Porterville Road | Eau Claire, WI 54701
+        <br>&#9400; 2017
+    </footer>
+    
+    </body>
+</html>
